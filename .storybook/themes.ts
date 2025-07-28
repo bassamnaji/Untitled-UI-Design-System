@@ -1,4 +1,7 @@
 const untitledThemes = [
+    { name: "Custom Brand (Primary)", class: "custom-brand", color: "#0038F0" },
+    { name: "Custom Secondary", class: "custom-secondary", color: "#FF005A" },
+    { name: "Custom Accent", class: "custom-accent", color: "#84FE68" },
     { name: "Brand", class: "untitled-brand", color: "#9e77ed" },
     { name: "Error", class: "untitled-error", color: "#f04438" },
     { name: "Warning", class: "untitled-warning", color: "#f79009" },

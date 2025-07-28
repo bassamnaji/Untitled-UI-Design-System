@@ -100,7 +100,7 @@ export const parameters = {
     },
 
     themes: {
-        default: "untitled-primary",
+        default: "custom-brand",
         list: themes,
     },
 };

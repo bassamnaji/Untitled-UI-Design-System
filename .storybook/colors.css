@@ -1,5 +1,50 @@
 /*****************  UNTITLEDUI COLOR ******************/
 
+.custom-brand {
+    --color-brand-25: rgb(240 248 255);
+    --color-brand-50: rgb(235 244 255);
+    --color-brand-100: rgb(219 237 255);
+    --color-brand-200: rgb(180 213 255);
+    --color-brand-300: rgb(141 189 255);
+    --color-brand-400: rgb(102 165 255);
+    --color-brand-500: rgb(63 141 255);
+    --color-brand-600: rgb(0 56 240);
+    --color-brand-700: rgb(0 42 180);
+    --color-brand-800: rgb(0 28 120);
+    --color-brand-900: rgb(0 14 60);
+    --color-brand-950: rgb(0 7 30);
+}
+
+.custom-secondary {
+    --color-brand-25: rgb(255 245 249);
+    --color-brand-50: rgb(255 235 243);
+    --color-brand-100: rgb(255 214 231);
+    --color-brand-200: rgb(255 172 207);
+    --color-brand-300: rgb(255 130 183);
+    --color-brand-400: rgb(255 88 159);
+    --color-brand-500: rgb(255 46 135);
+    --color-brand-600: rgb(255 0 90);
+    --color-brand-700: rgb(204 0 72);
+    --color-brand-800: rgb(153 0 54);
+    --color-brand-900: rgb(102 0 36);
+    --color-brand-950: rgb(51 0 18);
+}
+
+.custom-accent {
+    --color-brand-25: rgb(240 255 240);
+    --color-brand-50: rgb(230 255 230);
+    --color-brand-100: rgb(204 255 204);
+    --color-brand-200: rgb(178 255 178);
+    --color-brand-300: rgb(153 255 153);
+    --color-brand-400: rgb(127 255 127);
+    --color-brand-500: rgb(132 254 104);
+    --color-brand-600: rgb(102 230 80);
+    --color-brand-700: rgb(71 200 56);
+    --color-brand-800: rgb(51 150 42);
+    --color-brand-900: rgb(31 100 28);
+    --color-brand-950: rgb(15 50 14);
+}
+
 .untitled-brand {
     --color-brand-25: rgb(252 250 255);
     --color-brand-50: rgb(249 245 255);
